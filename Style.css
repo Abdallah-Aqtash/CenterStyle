@@ -1,0 +1,108 @@
+.FOut{
+
+    width: 70%;
+    height:50%;
+    background:darkslategrey;
+    margin-top:10%;
+    margin-left:14%;
+    padding-top:120px;
+    text-align:center;
+    color: aliceblue;
+    border-radius: 4px;
+    font-size: 25px
+}
+.Input{
+    width:370px;
+    height:55px;
+    border:none;
+    outline:none;
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    outline:white;
+    background:darkslategrey;
+    padding:20px;
+}
+
+.TextSection{
+
+    margin-left:43%;
+}
+
+.Logos{
+
+    padding-left: 620px;
+
+}
+
+.LogoWidth{
+
+    width:7%;
+}
+
+.LogoFImg{
+
+    margin-bottom: 17px;
+}
+.LogoTImg{
+
+    height:6%;
+    margin-bottom: 16px;
+    padding-left: 19px;
+}
+.LogoBImg{
+
+    padding-left:20px;
+    margin-bottom: 6px;
+}
+
+.Sign{
+
+    padding-left: 480px;
+}
+
+.InputPart{
+    
+    width:80%;
+    height:70%;
+    margin: 10px 100px;
+    padding: 120px 20px;
+}
+.FInput{
+
+    padding-left:15px;
+    margin-left:23px;
+    margin-right:13px;
+    width :300px;
+    height:45px;
+    border:none;
+    border : 1px black solid;
+    outline:6px;
+    border-radius:4px;
+}
+.MessageField{
+
+    width:330px;
+    height:180px;
+    padding-bottom:120px;
+}
+.IPImage{
+
+    width:64px;
+}
+
+.Font{
+
+    font-size: 22px;
+    font-weight: bold;
+}
+.MessageButton{
+
+    margin-left: 135px;
+    width:220px;
+    height:55px;
+    border:none;
+    border-radius:9px;
+    background-color:cornflowerblue;
+
+}
